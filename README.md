@@ -1,5 +1,5 @@
 ## Introduction 🙋🏻‍♀️
-Hello, I am Sindi. I am a data science student at IE University with experience in AI and Machine Learning, Data Engineering and Analytics, and Simulation modeling.
+Hey there, I am Sindi. I am a data science student at IE University with experience in AI and Machine Learning, Data Engineering and Analytics, and Simulation modeling.
 
 ### 📚 Projects
 This link will direct you to my portfolio, where I showcase my projects: [Portfolio Guide](https://github.com/sindibejko/portfolio-guide)
