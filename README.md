@@ -11,4 +11,3 @@ This link will direct you to my portfolio, where I showcase my projects: [Portfo
 
 ### 👋🏻 Socials
 Connect with me through <a href="https://www.linkedin.com/in/sindi-bejko" target="_blank">LinkedIn</a>.
-
