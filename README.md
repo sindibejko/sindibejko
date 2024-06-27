@@ -10,4 +10,5 @@ This link will direct you to my portfolio, where I showcase my projects: [Portfo
 - Data Processing: Apache Kafka, Apache Spark
 
 ### 👋🏻 Socials
-Connect with me through [LinkedIn](www.linkedin.com/in/sindi-bejko).
+Connect with me through <a href="https://www.linkedin.com/in/sindi-bejko" target="_blank">LinkedIn</a>.
+
